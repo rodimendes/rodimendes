@@ -1,7 +1,7 @@
 ### Hello everyone 👋
 
 - 🔭 I’m currently working on Data Analyst and Python Developer
-- 🌱 I’m always trying to learn something new. NOw it's time for SQL and NoSQL.
+- 🌱 I’m always trying to learn something new. Now it's time for SQL and NoSQL.
 - 😀 Being happy!
 
 <div align="center">
