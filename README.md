@@ -1,6 +1,6 @@
 ### Hello everyone 👋
 
-- 🔭 I’m currently working on Data Analyst and Python Developer
+- 🔭 I’m currently working as Data Analyst and Python Developer
 - 🌱 I’m always trying to learn something new. Now it's time for SQL and NoSQL.
 - 😀 Being happy!
 
